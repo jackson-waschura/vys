@@ -1,0 +1,11 @@
+[project]
+name = "vys"
+version = "0.1.0"
+description = "Python visualizations with Manim"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "manim",
+    "numpy",
+    "importlib_metadata",
+]
